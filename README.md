@@ -48,5 +48,5 @@ Bu araç:
 
 ### 🔹 MinGW (x86_64-w64-mingw32)
 ```bash
-x86_64-w64-mingw32-gcc bununlaac.c -o bununlaac.exe \
-  -lcomctl32 -lgdi32 -lshlwapi -ladvapi32
+windres bununlaac.rc -O coff -o bununlaac_res
+x86_64-w64-mingw32-gcc -municode -mwindows bununlaac.c bununlaac_res. -o bununlaac.exe -lshlwapi -ladvapi32 -lshell32 -lcomctl32 -lgdi32
