@@ -26,7 +26,13 @@ Bu araç:
 
 > Uygulama modern `Segoe UI` fontu, sade renk paleti ve `RoundedRect` butonlarla tasarlanmıştır.
 
-*(isteğe bağlı olarak buraya `screenshot.png` ekleyebilirsin)*
+<img width="500" height="420" alt="image" src="https://github.com/user-attachments/assets/193925c1-42c3-4523-a788-c14a5f55015b" />
+
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2da48a79-261c-4aa9-9998-19c74dc20903" />
+
+<img width="570" height="545" alt="image" src="https://github.com/user-attachments/assets/4e1451fa-a317-4ef5-90df-057f459648b4" />
+
+
 
 ---
 
